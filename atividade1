@@ -1,0 +1,12 @@
+A = 20
+B = 6 
+x = A + B 
+print(x)
+
+print("insira o 1º nº:\n")
+A = int(input())
+print("insira o 2º nº: \n")
+B = int(intup())
+
+X = A + B 
+prit (f" X = {X}")
